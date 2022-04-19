@@ -1,3 +1,4 @@
+# Log informations about me
 - 👋 Hi, I’m @unidentifiedQuantum
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Artificial intelligence
